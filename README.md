@@ -1,5 +1,6 @@
 # HTTP Server (C++20)
 
+
 A lightweight HTTP/1.1 server written in C++20 for macOS/BSD. Built from scratch to demonstrate low-level networking concepts: non-blocking I/O with **kqueue**, a custom **thread pool**, and RAII resource management throughout.
 
 ## Architecture
