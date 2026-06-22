@@ -1,0 +1,25 @@
+# CMake build artifacts
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+*.ninja
+*.ninja_deps
+*.ninja_log
+Makefile
+compile_commands.json
+
+# Compiled binaries
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+
+# CLion IDE
+.idea/
+
+# macOS
+.DS_Store
